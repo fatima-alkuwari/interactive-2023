@@ -1,0 +1,102 @@
+body {
+	background-color: #000000
+}
+
+.lvl1-1 {
+	width: 174px; 
+}
+
+.lvl1-2 {
+	width:174px;
+}
+
+.lvl1-3 {
+	width: 174px;
+}
+.lvl2 {
+	width: 158px; 
+}
+
+.lvl3-1 {
+	width: 315px;
+}
+
+.lvl3-2 {
+	width: 315px;
+}
+
+
+.lvl4-1 {
+	width: 215px; 
+}
+
+.lvl4-2 {
+	width: 215px; 
+}
+
+.lvl5-1 {
+	width: 113px; 
+}
+
+.lvl5-2 {
+	width: 113px; 
+}
+
+.lvl6 {
+	width: 567px; 
+}
+
+.lvl7 {
+	width: 1132px; 
+}
+
+
+
+.lvl3-1 {
+	padding-left: 755px;
+	padding-right: 755px;
+}
+
+.lvl2 {
+	padding-left: 850px;
+	padding-right: 850px;
+}
+
+.lvl3-2 {
+	padding-left: 750px;
+	padding-right: 750px;
+}
+
+.lvl5-1 {
+	padding-left: 550px;
+}
+
+.lvl4-1 {
+ 	padding-right: 35px;
+}
+
+.lvl6 {
+	padding-right: 630px; 
+	padding-left: 630px;
+}
+
+.lvl7 {
+	padding-right: 300px; 
+	padding-left: 300px;
+}
+
+.lvl1-1 {
+	padding-left: 550px;
+	padding-right: 50px;
+}
+
+.lvl1-2 {
+	padding-right: 50px;
+}
+
+.lvl12 {
+	width: 1400px;
+	position: fixed;
+	padding-left: 50px;
+}
+
